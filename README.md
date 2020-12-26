@@ -1,11 +1,9 @@
 # DotsSOWMArch
 
-#Archivos de configuracion SowmArch
- 
+# ArchivosdeconfiguracionSowmArch
 Es un Rice sencillo para SOWM
 
-#Dependencias
-
+# Dependencias
 Picom
 Alacritty
 Python 3.8 (Para los scripst)
